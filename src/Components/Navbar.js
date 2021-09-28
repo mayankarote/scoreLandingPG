@@ -22,7 +22,7 @@ function Navbar() {
       </label>
       <ul className="menu">
         <li>
-          <a href="#">Home</a>
+          <a href="#" className="active">Home</a>
         </li>
         <li>
           <a href="#">Features</a>
