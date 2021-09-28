@@ -1,7 +1,9 @@
 import React from "react";
 
 function Feature() {
-  return <div></div>;
+    return <div className="features">
+      <div className="a-Container"></div>
+  </div>;
 }
 
 export default Feature;
